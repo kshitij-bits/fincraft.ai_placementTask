@@ -27,5 +27,5 @@ Follow these instructions to set up and run the backend server locally.
 
 npm install
 
-PORT=3000 
+PORT=4000 
 MONGODB_URI=mongodb://127.0.0.1:27017
